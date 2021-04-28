@@ -1,0 +1,20 @@
+
+/* Import fonts fonts.css */
+
+@import url(./fonts.css);
+
+/* Navegação */
+
+.header_are .main-menu .navbar .navbar-brand{
+    padding: 0 2rem 0 5em;
+}
+
+.header_area .main-menu .navbar{
+    padding: 1rem 20rem;
+}
+
+.mr-auto ul{
+    text-align: right;
+}
+
+/* Final Navegação */
